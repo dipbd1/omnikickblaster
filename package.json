@@ -1,0 +1,27 @@
+{
+  "name": "omnikick-blaster",
+  "version": "1.0.1",
+  "description": "It's nothing but a package to blast omnikick with a vulnerability.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hack",
+    "crack",
+    "omnikick",
+    "node"
+  ],
+  "author": "Dip Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "prompt": "^1.0.0",
+    "prompts": "^2.4.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.13.0"
+  }
+}
